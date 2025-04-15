@@ -2,8 +2,8 @@
     <div>
         <Header />
         <NuxtPage />
+        <CartPages />
         <ProductCart />
-        <error />
         <Footer />
     </div>
 

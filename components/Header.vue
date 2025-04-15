@@ -8,10 +8,10 @@
                         <nuxt-link to="/product" class=" hover:text-blue-500">product</nuxt-link>
                     </li>
                     <li>
-                        <nuxt-link to="/about">About</nuxt-link>
+                        <nuxt-link to="/about" class=" hover:text-blue-500">About</nuxt-link>
                     </li>
                     <li>
-                        <nuxt-link to="/Home">Home</nuxt-link>
+                        <nuxt-link to="/Home" class=" hover:text-blue-500">Home</nuxt-link>
                     </li>
                 </ul>
             </nav>
